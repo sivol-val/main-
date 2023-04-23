@@ -1,0 +1,168 @@
+/* Тіло */
+body {font-family: 'Montserrat', sans-serif;
+background-color: #6571
+}
+
+
+/* Зовнішня коробка */
+.outer_box {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #FFF;
+    width: 1000px;
+    margin: 0% auto;
+}
+ /* Внутрішня коробка 1 */
+.inner_box1 {
+    background-color: #FFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+/* Загальна інформація  */
+.general_information {
+    font-family: 'Rubik Vinyl', cursive;
+    margin-bottom: 40px;
+}
+     .info1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 15px;
+
+}
+  /* /* Імя користувача */
+     .Name_user {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-top: 20px;
+}
+     .info2 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+
+
+/* Заслуги */
+.merit {
+    margin-bottom: 50px;
+}
+.achievement-list {
+    padding: 0%;
+    margin-left: 15px;
+}
+.achievement, 
+.achievement-bracket {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.achievement-merit1, 
+.achievement-link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.achievement-link {
+    margin-left: 10px;
+}
+.merit1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.merit2 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.merit2-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.name-compani {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1DA1F2;
+}
+.period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #657786;
+    margin-bottom: 20px;
+}
+.period-line {
+    font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 24px;
+        color: #000000;
+}
+.practice-merit {
+    font-family: 'Rubik Vinyl', cursive;
+    font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+        width: 400px;
+}
+/* Практика */
+.practice
+/* Освіта */
+.education {
+    background-color: hotpink;
+}
+
+/* Внутрішня коробка 2 */
+.inner_box2 {
+    background-color:#1DA1F2;
+}
+.contacts {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-left: 20px;
+}
+.contacts1 {
+    margin-left: 10px;
+}
+.contacts3 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.skills {
+    font-family: 'Rubik Vinyl', cursive;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+}
